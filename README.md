@@ -4,6 +4,8 @@ When enter to GitHub PR website page with many comments, GitHub hides older comm
 
 Tired of clicking "Load more" button? This extension automatically clicks all "Load more..." buttons on PR conversation pages, ensuring you can see all comments immediately.
 
+![fig3](fig/fig3.png)
+
 ## User Guide
 
 After install chrome extension, you will get
